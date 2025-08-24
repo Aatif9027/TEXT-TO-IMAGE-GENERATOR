@@ -1,0 +1,21 @@
+# Virtual environment folder
+env/
+
+# Python cache files
+__pycache__/
+
+# Image/output files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# Model weights and checkpoints
+*.pkl
+*.pt
+*.ckpt
+
+# Huggingface cache
+.cache/
+

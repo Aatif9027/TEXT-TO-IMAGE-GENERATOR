@@ -1,0 +1,6 @@
+Running steps after setup :
+command on terminal :
+python -m venv env
+.\env\Scripts\activate                         //   to active environment
+pip install -r requirements.txt               // to install all requirements
+python generate_advanced_image.py  
